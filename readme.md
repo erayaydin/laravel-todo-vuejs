@@ -1,1 +1,1 @@
-# Laravel 5.4 and VueJS - Todo Application Example
+# Laravel 5.4 & VueJS - Todo App Example
